@@ -1,2 +1,11 @@
-python version 3.11
-Running venv for use the library
+# Python Version
+3.11
+
+# Library used
+opencv-python
+mediapipe
+numpy
+simpleaudio
+
+
+Make a venv for use the library
